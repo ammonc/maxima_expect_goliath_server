@@ -1,0 +1,19 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    em-synchrony (1.0.0)
+      eventmachine (>= 1.0.0.beta.1)
+    eventmachine (1.0.0.beta.4)
+    minitest (2.10.0)
+    mynyml-redgreen (0.7.1)
+      term-ansicolor (>= 1.0.4)
+    term-ansicolor (1.0.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  em-synchrony
+  eventmachine
+  minitest
+  mynyml-redgreen
